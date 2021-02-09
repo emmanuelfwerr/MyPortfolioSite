@@ -17,15 +17,64 @@
   </url>
   
   <url>
+    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project1/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/tags/scene/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/tags/</loc>
+    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project2/</loc>
+    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project8/</loc>
-    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project3/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project6/</loc>
-    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project4/</loc>
+    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project9/</loc>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -66,57 +115,8 @@
   </url>
   
   <url>
-    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project9/</loc>
-    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project5/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/tags/scene/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/tags/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

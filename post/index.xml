@@ -8,9 +8,29 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://emmanuelfwerr.github.io/MyPortfolioSite/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Finding Donors for CharityML</title>
+      <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project1/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project1/</guid>
+      <description>Application of supervised learning techniques on data collected from the U.S. census to help CharityML identify people most likely to donate to their cause.
+We first explore the data to learn how the census data is recorded. Next, apply a series of transformations and preprocessing techniques to manipulate the data into a workable format. We then evaluate several supervised learners on the data, and consider which is best suited for the solution.</description>
+    </item>
+    
+    <item>
+      <title>Identifying Customer Segments</title>
+      <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project2/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project2/</guid>
+      <description>Application of unsupervised learning techniques on product spending data collected for customers of a wholesale distributor to identify customer segments hidden in the data.
+We first explore the data by selecting a small subset to sample and determine if any product categories highly correlate with one another. Afterwards, we preprocess the data by scaling each product category and then identifying (and removing) unwanted outliers. With the good, clean customer spending data, we apply PCA transformations to the data and implement clustering algorithms to segment the transformed customer data.</description>
+    </item>
+    
+    <item>
       <title>Analyzing A/B Test Results</title>
       <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project8/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project8/</guid>
       <description>The purpose of this project was working to understand the results of an A/B test run by an e-commerce website. The goal was to work through this notebook to help the company understand if they should implement a new page, keep the old page, or perhaps run the experiment longer to make a better decision.
@@ -19,13 +39,43 @@ The project was divided into three parts:
     </item>
     
     <item>
+      <title>Multiview Projection</title>
+      <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project3/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project3/</guid>
+      <description>The goal of this project was to implement forward (3D point to 2D point) and inverse (2D point to 3D ray) camera projection, and to perform triangulation from two cameras to do 3D reconstruction from pairs of matching 2D image points.
+The specific tasks were to project 3D coordinates (sets of 3D joint locations on a human body, measured by motion capture equipment) into image pixel coordinates that we could overlay on top of an image, to then convert those 2D points back into 3D viewing rays, and then triangulate the viewing rays of two camera views to recover the original 3D coordinates we started with.</description>
+    </item>
+    
+    <item>
       <title>Analyzing Bikeshare Data with Python</title>
       <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project6/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project6/</guid>
       <description>This project focuses on pandas library usage and simple statistics methods to perform a rudimentary analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
 The program takes user input for the city (e.g. Chicago), month for which the user wants to view data (e.g. January; also includes an &amp;lsquo;all&amp;rsquo; option), and day for which the user wants to view data (e.</description>
+    </item>
+    
+    <item>
+      <title>Motion Detection</title>
+      <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project4/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project4/</guid>
+      <description>The goal of this project was to implement four simple motion detection algorithms, run them on short videos, and compare the results. The four algorithms are:
+ Simple Background Subtraction Simple Frame Differencing Adaptive Background Subtraction Persistent Frame Differencing  We were required to implement all four in one program and generate, as output, a four-panel frame showing the results of each algorithm, on each video frame, and generate a video of the results.</description>
+    </item>
+    
+    <item>
+      <title>Twitter API Data Wrangling</title>
+      <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project9/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project9/</guid>
+      <description>The purpose of this project was to gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it.
+The dataset that we will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people&amp;rsquo;s dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10.</description>
     </item>
     
     <item>
@@ -78,16 +128,6 @@ This dataset collects information from 100k medical appointments in Brazil and i
     </item>
     
     <item>
-      <title>Twitter API Data Wrangling</title>
-      <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project9/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project9/</guid>
-      <description>The purpose of this project was to gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it.
-The dataset that we will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people&amp;rsquo;s dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10.</description>
-    </item>
-    
-    <item>
       <title>Sakila DVDrental Database Analysis</title>
       <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project5/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
@@ -95,46 +135,6 @@ The dataset that we will be wrangling (and analyzing and visualizing) is the twe
       <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project5/</guid>
       <description>In this project we investigate the Sakila DVD Rental database. The Sakila Database holds information about a company that rents movie DVDs. For this project, the database is queried to gain an understanding of the customer base, such as what the patterns in movie watching are across different customer groups, how they compare on payment earnings, and how the stores compare in their performance.
   Sample slide from project report   This project focuses on gaining on hand experience with exploring a relational database.</description>
-    </item>
-    
-    <item>
-      <title>Motion Detection</title>
-      <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      
-      <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project4/</guid>
-      <description>The goal of this project was to implement four simple motion detection algorithms, run them on short videos, and compare the results. The four algorithms are:
- Simple Background Subtraction Simple Frame Differencing Adaptive Background Subtraction Persistent Frame Differencing  We were required to implement all four in one program and generate, as output, a four-panel frame showing the results of each algorithm, on each video frame, and generate a video of the results.</description>
-    </item>
-    
-    <item>
-      <title>Multiview Projection</title>
-      <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
-      
-      <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project3/</guid>
-      <description>The goal of this project was to implement forward (3D point to 2D point) and inverse (2D point to 3D ray) camera projection, and to perform triangulation from two cameras to do 3D reconstruction from pairs of matching 2D image points.
-The specific tasks were to project 3D coordinates (sets of 3D joint locations on a human body, measured by motion capture equipment) into image pixel coordinates that we could overlay on top of an image, to then convert those 2D points back into 3D viewing rays, and then triangulate the viewing rays of two camera views to recover the original 3D coordinates we started with.</description>
-    </item>
-    
-    <item>
-      <title>Identifying Customer Segments</title>
-      <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project2/</guid>
-      <description>Application of unsupervised learning techniques on product spending data collected for customers of a wholesale distributor to identify customer segments hidden in the data.
-We first explore the data by selecting a small subset to sample and determine if any product categories highly correlate with one another. Afterwards, we preprocess the data by scaling each product category and then identifying (and removing) unwanted outliers. With the good, clean customer spending data, we apply PCA transformations to the data and implement clustering algorithms to segment the transformed customer data.</description>
-    </item>
-    
-    <item>
-      <title>Finding Donors for CharityML</title>
-      <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project1/</guid>
-      <description>Application of supervised learning techniques on data collected from the U.S. census to help CharityML identify people most likely to donate to their cause.
-We first explore the data to learn how the census data is recorded. Next, apply a series of transformations and preprocessing techniques to manipulate the data into a workable format. We then evaluate several supervised learners on the data, and consider which is best suited for the solution.</description>
     </item>
     
   </channel>
