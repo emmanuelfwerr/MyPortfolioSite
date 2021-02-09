@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Home</title>
+    <link>https://emmanuelfwerr.github.io/MyPortfolioSite/tags/scene/</link>
+    <description>Recent content in scene on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate><atom:link href="https://emmanuelfwerr.github.io/MyPortfolioSite/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Motion Detection</title>
+      <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project4/</guid>
+      <description>The goal of this project was to implement four simple motion detection algorithms, run them on short videos, and compare the results. The four algorithms are:
+ Simple Background Subtraction Simple Frame Differencing Adaptive Background Subtraction Persistent Frame Differencing  We were required to implement all four in one program and generate, as output, a four-panel frame showing the results of each algorithm, on each video frame, and generate a video of the results.</description>
+    </item>
+    
+    <item>
+      <title>Finding Donors for CharityML</title>
+      <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project1/</guid>
+      <description>Application of supervised learning techniques on data collected from the U.S. census to help CharityML identify people most likely to donate to their cause.
+We first explore the data to learn how the census data is recorded. Next, apply a series of transformations and preprocessing techniques to manipulate the data into a workable format. We then evaluate several supervised learners on the data, and consider which is best suited for the solution.</description>
+    </item>
+    
+  </channel>
+</rss>
