@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Home</title>
-    <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/</link>
-    <description>Recent content in Projects on Home</description>
+    <title>Emmanuel F. Werr on Home</title>
+    <link>https://emmanuelfwerr.github.io/MyPortfolioSite/</link>
+    <description>Recent content in Emmanuel F. Werr on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://emmanuelfwerr.github.io/MyPortfolioSite/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://emmanuelfwerr.github.io/MyPortfolioSite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finding Donors for CharityML</title>
       <link>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project1/</link>
@@ -135,6 +135,16 @@ They&amp;rsquo;d like a data engineer to create an Apache Cassandra database whi
       <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/post/project7/</guid>
       <description>The purpose of this project was to go through the entire data analysis process utilizing a dataset of our choice and creating a Jupyter NB report that communicated my findings.
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient and their appointments are included in each row.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://emmanuelfwerr.github.io/MyPortfolioSite/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emmanuelfwerr.github.io/MyPortfolioSite/contact/</guid>
+      <description>Follow my work on these social media platforms.
+   Platform URL     GitHub: https://github.com/emmanuelfwerr   LinkedIn: https://www.linkedin.com/in/emmanuelfwerr/   E-mail: emmanuelfwerr@gmail.com    </description>
     </item>
     
   </channel>
